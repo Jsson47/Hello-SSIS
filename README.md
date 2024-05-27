@@ -10,11 +10,11 @@ Automatización: Reducir el esfuerzo manual involucrado en la integración de da
 Eficiencia: Mejorar la velocidad y precisión de los procesos ETL.
 Confiabilidad: Asegurar la consistencia y calidad de los datos.
 
-4. Requisitos Previos
+3. Requisitos Previos
 
 Antes de ejecutar el proyecto, asegúrate de tener lo siguiente:
 
-SQL Server: Versión 2019 o superior.
+Visual Studio 2019 o superior, SQL Server: Versión 2022.
 SQL Server Data Tools (SSDT): Para editar y ejecutar los paquetes SSIS.
 Extensión: SQL Server Integration Services Projects 2022
 Almacenamiento y procesamiento de datos (Server Data Tools, Herramientas de desarrollo de .NET Framework 4.7)
